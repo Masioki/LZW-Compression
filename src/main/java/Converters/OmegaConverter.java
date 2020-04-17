@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Elias omega code
+ * Elias omega code.
  */
 public class OmegaConverter implements CodingConverter {
     @Override

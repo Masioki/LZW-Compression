@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * LZW decoding alghoritm
+ * LZW decoding algorithm
  */
 public class Decoder extends AbstractCoder {
 

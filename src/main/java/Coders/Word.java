@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Objects;
 
 /**
- * Boxed List, just for code readability
+ * Boxed List. Just for code readability.
  */
 public class Word {
     private final List<Byte> bytes;

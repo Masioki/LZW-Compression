@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Elias gamma code
+ * Elias gamma code.
  */
 public class GammaConverter implements CodingConverter {
     @Override

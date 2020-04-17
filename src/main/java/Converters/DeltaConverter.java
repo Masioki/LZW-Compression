@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Elias delta code
+ * Elias delta code.
  */
 public class DeltaConverter implements CodingConverter {
     @Override

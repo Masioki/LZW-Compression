@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Contains full, fast dictionary management for LZW using Bidirectional Hash Map
+ * Contains full, fast dictionary management for LZW using Bidirectional HashMap
  */
 public abstract class AbstractCoder {
     private final CodingConverter converter;

@@ -5,7 +5,7 @@ import Converters.CodingConverter;
 import java.util.List;
 
 /**
- * LZW encoding alghoritm
+ * LZW encoding algorithm
  */
 public class Encoder extends AbstractCoder {
 

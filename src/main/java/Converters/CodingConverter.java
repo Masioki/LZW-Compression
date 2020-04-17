@@ -3,7 +3,7 @@ package Converters;
 import java.util.List;
 
 /**
- * Convert code(Integer) to binary String 
+ * Convert code (Integer) to binary String
  */
 public interface CodingConverter {
     String convert(int num);

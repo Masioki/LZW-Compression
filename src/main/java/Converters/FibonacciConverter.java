@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * Fibonacci code
+ * Fibonacci code.
  */
 public class FibonacciConverter implements CodingConverter {
 
